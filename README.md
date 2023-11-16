@@ -1,6 +1,6 @@
 # DocQuest.Ai 📚
 
-DocQuest.Ai is an AI-powered SaaS application that transforms how you interact with PDF documents. Seamlessly blending natural language processing (NLP) and document analysis, DocQuest enables users to pose queries and receive instant answers, making it an invaluable tool for students, researchers, and professionals.
+DocQuest.Ai is an AI-powered SaaS application that transforms how you interact with PDF documents. Seamlessly blending natural language processing (NLP) and document analysis, DocQuest.Ai enables users to pose queries and receive instant answers, making it an invaluable tool for students, researchers, and professionals.
 
 ## Features
 
